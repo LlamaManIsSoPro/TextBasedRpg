@@ -1,0 +1,9 @@
+E:\Visual Studio\Text Base Game\Text Base Game\bin\Debug\Text Base Game.exe.config
+E:\Visual Studio\Text Base Game\Text Base Game\obj\Debug\Text Base Game.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Text Base Game\Text Base Game\bin\Debug\Text Base Game.exe
+E:\Visual Studio\Text Base Game\Text Base Game\bin\Debug\Text Base Game.pdb
+E:\Visual Studio\Text Base Game\Text Base Game\obj\Debug\Text Base Game.exe
+E:\Visual Studio\Text Base Game\Text Base Game\obj\Debug\Text Base Game.pdb
+E:\FLASHDRIVEBACKUP\Visual Studio\Text Base Game\Text Base Game\bin\Debug\Text Base Game.exe.config
+E:\FLASHDRIVEBACKUP\Visual Studio\Text Base Game\Text Base Game\obj\Debug\Text Base Game.exe
+E:\FLASHDRIVEBACKUP\Visual Studio\Text Base Game\Text Base Game\obj\Debug\Text Base Game.pdb
